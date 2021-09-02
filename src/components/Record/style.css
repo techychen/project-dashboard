@@ -1,0 +1,23 @@
+.record-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.record-container:last-child {
+  border-bottom: none;
+}
+
+.record-container:hover {
+  background-color: lightcyan;
+}
+
+.record-item {
+  flex: 1;
+}
+
+.record-item:last-child {
+  flex: 0.5;
+}

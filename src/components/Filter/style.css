@@ -1,0 +1,9 @@
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.filter-title {
+  text-align: center;
+}

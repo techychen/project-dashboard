@@ -1,0 +1,16 @@
+.stats-container {
+  padding: 20px;
+}
+
+.stats-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.stats-content {
+  margin-top: 20px;
+}
+
+.stats-item {
+  margin-top: 10px;
+}

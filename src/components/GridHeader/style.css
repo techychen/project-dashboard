@@ -1,0 +1,17 @@
+.grid-header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+  background-color: lightblue;
+  border-bottom: 1px solid darkgray;
+}
+
+.grid-header-item {
+  flex: 1;
+  font-weight: bold;
+}
+
+.grid-header-item:last-child {
+  flex: 0.5;
+}
